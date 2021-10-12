@@ -1,0 +1,79 @@
+.div1 {
+    background-color: rgb(117, 76, 76);
+    height: 30vh;
+    width: 70vw;
+    border: solid black 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.div2 {
+    background-color: white;
+    width: 70%;
+    height: 70%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border: solid rgb(5, 5, 109) 10px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.div3{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.div4 {
+    background-color: blue;
+    height: 5vh;
+    width: 70vw;
+}
+
+.div5 {
+    background-color: purple;
+    height: 5vh;
+    width: 40vw;
+}
+
+.div6 {
+    background-color: green;
+    height: 5vh;
+    width: 60vw;
+}
+
+.div7 {
+    background-color: yellow;
+    height: 5vh;
+    width: 50vw;
+}
+
+.div8 {
+    background-color: red;
+    height: 5vh;
+    width: 100vw;
+    margin-top: 80px;
+    display: flex;
+    justify-content:right;
+    flex-direction: row;
+    align-items: center;
+}
+
+.div9 {
+    background-color: rgb(75, 75, 148);
+    height: 5vh;
+    width: 30%;
+}
+
+.div10 {
+    background-color: #82d800;
+    height: 5vh;
+    width: 40%;
+}
